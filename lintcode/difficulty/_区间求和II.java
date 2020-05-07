@@ -1,8 +1,7 @@
-package com.wjw.lintcode.difficulty;
+package lintcode.difficulty;
 
 import java.util.Stack;
 
-import com.wjw.lintcode.difficulty._区间求和II.Node;
 
 public class _区间求和II {
 

@@ -1,4 +1,4 @@
-package com.wjw.lintcode.difficulty;
+package lintcode.difficulty;
 
 import java.util.ArrayList;
 import java.util.Comparator;
